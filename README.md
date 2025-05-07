@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Anil Mandavilli</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 😎 Software Developer at 2MR Labs
+- 😎 Software Engineer at Administrative Office of Courts
 
 
 - 📫 How to reach me **kmandav@iu.edu / mandavillianil@gmail.com / https://www.linkedin.com/in/anil-mandavilli/**
